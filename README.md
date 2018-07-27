@@ -1,2 +1,2 @@
-# OpenCV
-Real time smile detection using openCV
+# Image Classification using OpenCV and Deep Learning Algorithms
+This repository contains python files for Image Classification using OpenCV(Real time smile detection using OpenCV, the application can be extended by importing other haar-like features), CNN(Image classification on CIFAR10 dataset using the stochastic gradient descent optimizer. The results are measured by training the dataset with data augmentation. The comparison in the computation time and accuracy is note for the model with and without data augmentation. This model can be studied further with different other optimizers and the result may be discussed.)
